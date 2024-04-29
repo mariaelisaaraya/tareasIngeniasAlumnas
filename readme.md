@@ -15,3 +15,5 @@ Durante el curso se va a aprender los fundamentos de desarrollo web back-end pas
 
 ## Clases y apuntes en [GitHub_Ingenias2024](https://github.com/jeanmunoz23/Ingenias-Backend-2024)
 
+Pull jan
+
