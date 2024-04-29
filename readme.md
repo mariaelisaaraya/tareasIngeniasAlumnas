@@ -13,3 +13,5 @@ Durante el curso se va a aprender los fundamentos de desarrollo web back-end pas
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
 
+## Clases y apuntes en [GithubIngenias2024](https://github.com/jeanmunoz23/Ingenias-Backend-2024)
+
