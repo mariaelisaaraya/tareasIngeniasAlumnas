@@ -5,7 +5,7 @@ Antes de enviar un Pull Request hay que considerar las siguientes guías:
 - Clona el repositorio.
 - Crea una nueva branch: `git checkout -b my-branch main`
 - Hacer tus cambios -> En 01Clase subir tu respuesta, etc.
-- Commitea tu código con un buen mensaje de commit [usando "Conventional Commits"](#conventional-commits).
+- Commitea tu código con un buen mensaje de commit [usando "Conventional Commits"](https://www.youtube.com/watch?v=SigVVJmUGv8).
 - Hacé push de tu branch a GitHub: `git push origin my-branch`
 - Crea un Pull Request
 
