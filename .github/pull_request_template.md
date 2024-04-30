@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> Checklist a modo recordatorio. Por favor, describe brevemente los cambios que has realizado. ¿Qué tareas resuelve este PR?
+> Checklist a modo recordatorio. Por favor, describe brevemente los cambios que realizaste. ¿Qué tareas resuelve este PR?
 
-## Lista de control:
+## Lista de control(Verificar la lista de control antes del PR):
 - [ ] He realizado pruebas locales de mis cambios.
 - [ ] He comentado mi código, en particular en las áreas difíciles de entender.
 - [ ] He hecho los cambios necesarios en la documentación.
