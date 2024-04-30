@@ -7,10 +7,10 @@ Durante el curso se va a aprender los fundamentos de desarrollo web back-end pas
 ---
 
 #### Módulo 1 - Servidores Web y Api Restful -
-* Guía de actividades prácticas: módulo 1 y 2
+* Guía de actividades prácticas: Módulo 1 y 2
 
 #### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
-* Guía de actividades prácticas: módulo 1 y 2
+* Guía de actividades prácticas: Módulo 1 y 2
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
