@@ -1,6 +1,6 @@
 ## Curso de Backend 2024 - Ingenias - Aula Kimberly Bryant
 
-¡Bienvenidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant creado para Ingenias por Maria Elisa Araya y Jeannette Elizabeth Muñoz .
+¡Bienvenidas a todas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant creado para Ingenias por Maria Elisa Araya y Jeannette Elizabeth Muñoz .
 
 Durante el curso se va a aprender los fundamentos de desarrollo web back-end paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
 
