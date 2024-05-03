@@ -4,8 +4,8 @@
   "description": "servidor web con express",
   "main": "ejerciocioAlumnaSilvinaFigueroa.js",
   "scripts": {
-    "start": "node ejerciocioAlumnaSilvinaFigueroa.js ",
-    "dev": "nodemon ejerciocioAlumnaSilvinaFigueroa.js"
+    "start": "node ejercicioAlumnaSilvinaFigueroa.js ",
+    "dev": "nodemon ejercicioAlumnaSilvinaFigueroa.js"
   },
   "author": "Silvina Figueroa",
   "license": "ISC",
