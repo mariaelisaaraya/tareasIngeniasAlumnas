@@ -2,10 +2,10 @@
   "name": "05clase",
   "version": "1.0.0",
   "description": "servidor web con express",
-  "main": "ejerciocioAlumnaSilvinaFigueroa.js",
+  "main": "ejercicioAlumnaSilvinaFigueroa.js",
   "scripts": {
-    "start": "node ejercicioAlumnaSilvinaFigueroa.js ",
-    "dev": "nodemon ejercicioAlumnaSilvinaFigueroa.js"
+    "start":"node ejercicioAlumnaSilvinaFigueroa.js ",
+    "dev":"nodemon ejercicioAlumnaSilvinaFigueroa.js"
   },
   "author": "Silvina Figueroa",
   "license": "ISC",
