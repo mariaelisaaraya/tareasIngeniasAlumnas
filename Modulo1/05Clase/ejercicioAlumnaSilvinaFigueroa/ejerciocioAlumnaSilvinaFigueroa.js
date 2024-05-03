@@ -14,8 +14,8 @@ app.get('/cursos', (request, respose)=>{
 app.get('/contacto', (request, respose)=>{
     respose.send('<html><body><h1>En esta seccion podes contactarnos</h1></body></html>')
 });
-
-// get para rutas inexistentes
+// Dos formas de controlar las rutas inexistentes:
+// Get para rutas inexistentes
 //app.get('*', (request, respose)=>{
 // respose.status(404).json(rutaInexistente)
  //})
