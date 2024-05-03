@@ -1,5 +1,5 @@
 Prácticas
-Definiremos una constante PORT, con el valor 3008. En el servidor web, debemos
+Definiremos una constante PORT, con el valor 3050. En el servidor web, debemos
 tener definidas a las siguientes rutas:
 
 ● “/”
