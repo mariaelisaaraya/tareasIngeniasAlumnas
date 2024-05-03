@@ -1,0 +1,26 @@
+const http = require('http');
+const PORT = 3008;
+
+const server = http.createServer((request, response) => {
+    let respuesta = ""
+    let statusCode = 200;
+    if (request.url === '/') {
+        respuesta = "<h1>Bienvenid@s a nuestra web!</h1>";
+    } else if(request.url === '/cursos'){
+        respuesta = "<h1>Bienvenid@s a nuestra sección de cursos</h1>"
+    }else if(request.url === '/contacto'){
+        respuesta = "<h1>Bienvenid@s a nuestra sección de contacto!</h1>";
+
+    } else {
+        statusCode= 404;
+        respuesta = "<h1>No se encontro la ruta :( </h1>"
+    }
+    response.statusCode = statusCode;
+    response.setHeader('Content-Type', 'text/html; charset=utf-8');
+    response.end(respuesta);
+
+})
+
+server.listen(PORT, () => { 
+    console.log(`Servidor corriendo en el puerto ${PORT}`)
+})
