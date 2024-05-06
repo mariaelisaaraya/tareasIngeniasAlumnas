@@ -7,16 +7,16 @@ app.listen(3050, () => {
 
 app.get("/", (req, res) => {
   res.set("Content-Type", "text/html");
-  res.send("soy home");
+  res.send("<html><body><h1>Bienvenid@s a HOME</h1></body></html>");
 });
 
 app.get("/cursos", (req, res) => {
   res.set("Content-Type", "text/html");
-  res.send("soy cursos");
+  res.send("<html><body><h1>Bienvenid@s a CURSOS !</h1></body></html>");
 });
 app.get("/contacto", (req, res) => {
   res.set("Content-Type", "text/html");
-  res.send("soy contacto");
+  res.send("<html><body><h1>Bienvenid@s a CONTACTOS</h1></body></html>");
 });
 
 app.use((req, res) => {
