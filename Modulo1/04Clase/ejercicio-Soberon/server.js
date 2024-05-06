@@ -4,11 +4,15 @@ const PORT = 3008;
 const server = http.createServer((request, response) => {
   let respuesta = "";
   let statusCode = 200;
+  
   if (request.url === "/") {
+    response.setHeader("Content-Type", "text/html; charset=utf-8");
     respuesta = "<h1>Bienvenid@s a nuestra web!</h1>";
   } else if (request.url === "/cursos") {
+    response.setHeader("Content-Type", "text/html; charset=utf-8");
     respuesta = "<h1>Bienvenid@s a nuestra sección de cursos</h1>";
   } else if (request.url === "/contacto") {
+    response.setHeader("Content-Type", "text/html; charset=utf-8");
     respuesta = "<h1>Bienvenid@s a nuestra sección de contacto!</h1>";
   } else {
     statusCode = 404;
@@ -16,7 +20,6 @@ const server = http.createServer((request, response) => {
     respuesta = "Error 404: No se encuentra la ruta o recurso solicitado.";
   }
   response.statusCode = statusCode;
-  response.setHeader("Content-Type", "text/html; charset=utf-8");
   response.end(respuesta);
 });
 
