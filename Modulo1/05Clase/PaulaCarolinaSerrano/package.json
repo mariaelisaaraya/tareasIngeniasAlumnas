@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "end": "killall -9 node"
+    "dev": "nodemon server.js"
+
   },
   "author": "Paula Carolina Serrano",
   "license": "ISC",
