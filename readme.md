@@ -25,8 +25,12 @@ Antes de enviar un Pull Request hay que considerar las siguientes pasos:
 - Crea una nueva branch: `git checkout -b my-branch main`
 - Tus cambios deberían quedar como por ejemplo:
     - Modulo1
-        - Clase01
-            -  **CarpetaBernarditaSanchez** - EjercicioAlumnaBernarditaSanchez.js
+        - Clase05
+            -  **CarpetaBernarditaSanchez**
+                - README.md
+                - index.js
+                - package.json
+                - .gitignore
 - Commitea tu código con un buen mensaje de commit [usando "Conventional Commits"](https://www.youtube.com/watch?v=SigVVJmUGv8).
 - Hacé push de tu branch a GitHub: `git push origin my-branch`
 - Crear Pull Request
