@@ -24,5 +24,8 @@
 ## Cumplimiento de Requisitos
 - Todos los requisitos de la tarea han sido cumplidos adecuadamente.
 
+## Observaciones
+- Ojo con la identación.
+
 Saludos,
 Lisa
