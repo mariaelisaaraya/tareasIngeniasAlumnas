@@ -26,7 +26,7 @@ Antes de enviar un Pull Request hay que considerar las siguientes pasos:
 - Tus cambios deberían quedar como por ejemplo:
     - Modulo1
         - Clase05
-            -  **CarpetaBernarditaSanchez**
+            -  **carpetaBernarditaSanchez**
                 - README.md
                 - index.js
                 - package.json
