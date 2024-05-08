@@ -4,7 +4,7 @@ const nombre = "Donna Clark";
 
 function listarPaises(Array) {
     console.log("Listado de países contenidos en el array:");
-    console.table(paises);
+    console.table(Array);
 }
 
 listarPaises(paises);
