@@ -8,7 +8,6 @@ const catProducts = [{name: 'Comedero cerámica', price: 3000},
                           {name: 'Rascador corrugado', price: 7000},
                           {name: 'Caña de juego', price: 2500}]
 
-const { title } = require('process');
 
 //Importación del motor de plantillas
 app.set('view engine', 'ejs');
