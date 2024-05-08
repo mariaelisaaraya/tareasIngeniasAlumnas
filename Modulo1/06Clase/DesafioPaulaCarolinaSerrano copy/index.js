@@ -2,15 +2,19 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const PORT = 3008
-const computerProducts = [{name: 'Notebook Lenovo', price: 720},
-                          {name: 'Macbook Air 13', price: 1250},
-                          {name: 'Tablet Droid 10.1', price: 350}]
+
+//Array de objetos con información de los productos
+const catProducts = [{name: 'Comedero cerámica', price: 3000},
+                          {name: 'Rascador corrugado', price: 7000},
+                          {name: 'Caña de juego', price: 2500}]
 
 const { title } = require('process');
 
+//Importación del motor de plantillas
 app.set('view engine', 'ejs');
 app.use(express.static('views'));
 
+//Ruta raiz
 app.get('/', (req, res) => {
     const data = {
         title: 'Mi sitio web con EJS',
@@ -19,15 +23,17 @@ app.get('/', (req, res) => {
     res.render('index', data);
 });
 
+//Ruta que muestra los productos
 app.get('/productos', (req, res) => {
     const data = { 
         title: 'Listado de productos disponible',
         message: 'Aquí encontrarás un listado de nuestro productos disponibles. Si algún producto de tu interés no figura en la lista, consúltanos a nuestro correo electrónico.',
-        products: computerProducts
+        products: catProducts
     };
     res.render('productos', data);
 });
 
+//Manejo de rutas inexistentes
 app.get('/*', (req, res) =>{
     const data = {
         title: "Error, ruta no encontrada",
@@ -36,6 +42,7 @@ app.get('/*', (req, res) =>{
     res.render('rutasInexistentes', data);
 })
 
+//Inicia el servidor
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
