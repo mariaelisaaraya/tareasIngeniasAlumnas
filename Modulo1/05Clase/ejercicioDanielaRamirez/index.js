@@ -22,9 +22,11 @@ app.get('/contacto', (request, response) => {
 
 app.get('*', (request, response) => {
     response.set('Content-Type', 'text/plain');
-    response.status(404).json({
+    const errorResponse = {
         error: "404",
-        description: 'No se encuentra la ruta o recurso solicitado.'});
+        description: 'No se encuentra la ruta o recurso solicitado.'
+    };
+    response.status(404).send(JSON.stringify(errorResponse));    
 });
 
 app.listen(PORT, () => {
