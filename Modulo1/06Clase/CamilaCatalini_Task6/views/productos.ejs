@@ -1,0 +1,26 @@
+<body style="margin: 0; padding: 0; background-color: antiquewhite;">
+<%- include('./partials/header') %>
+<div style="margin: 0; padding: 0;height: 100vh; ">
+    <h1 style="text-align: center;"><%= title %></h1>
+
+    <div style="display: flex; justify-content: center;">
+        <ul>
+            <% for (let i = 0; i < productos.length/2; i++) {%>
+            <li> <a href="producto/<%= productos[i].nombre %>"><%= productos[i].nombre %> <%= productos[i].imagen %> -
+                precio:  $<%= productos[i].precio %></a> </li>
+            <% } %>
+            
+        </ul>
+        <ul>
+            <% for (let i = productos.length/2; i < productos.length; i++) {%>
+            <li><a href="producto/<%= productos[i].nombre %>"><%= productos[i].nombre %> <%= productos[i].imagen %> -
+                precio:  $<%= productos[i].precio %></a> </li>
+            <% } %>
+        </ul>
+    </div>
+   
+<a href="/" class="button" style="display: flex; justify-content: center;"> Volver a HOME </a>
+</div>
+
+<%- include('./partials/footer') %>
+</body>

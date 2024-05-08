@@ -1,6 +1,6 @@
 ## Curso de Backend 2024 - Ingenias - Aula Kimberly Bryant
 
-¡Bienvenidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant creado para Ingenias por Maria Elisa Araya y Jeannette Elizabeth Muñoz .
+¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant creado para Ingenias por Maria Elisa Araya y Jeannette Elizabeth Muñoz .
 
 Durante el curso se va a aprender los fundamentos de desarrollo web back-end paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
 
@@ -23,8 +23,14 @@ Antes de enviar un Pull Request hay que considerar las siguientes pasos:
 
 - Clona el repositorio.
 - Crea una nueva branch: `git checkout -b my-branch main`
-- Hacer tus cambios. Ejemplo:
-    - Modulo1 - 01Clase - EjercicioAlumnaBernarditaSanchez.js
+- Tus cambios deberían quedar como por ejemplo:
+    - Modulo1
+        - Clase05
+            -  **carpetaBernarditaSanchez**
+                - README.md
+                - index.js
+                - package.json
+                - .gitignore
 - Commitea tu código con un buen mensaje de commit [usando "Conventional Commits"](https://www.youtube.com/watch?v=SigVVJmUGv8).
 - Hacé push de tu branch a GitHub: `git push origin my-branch`
 - Crear Pull Request
