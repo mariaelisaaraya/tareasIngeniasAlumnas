@@ -1,8 +1,6 @@
 ## Curso de Backend 2024 - Ingenias - Aula Kimberly Bryant
 
-¡Bienvenidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant creado para Ingenias por Maria Elisa Araya y Jeannette Elizabeth Muñoz .
-
-Durante el curso se va a aprender los fundamentos de desarrollo web back-end paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
+¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
 
 ---
 
@@ -37,5 +35,18 @@ Antes de enviar un Pull Request hay que considerar las siguientes pasos:
 
 ---
 
-## Clases y apuntes en [GitHub_Ingenias2024](https://github.com/jeanmunoz23/Ingenias-Backend-2024)
+### Ayuda
 
+Si tenes  cualquier duda podes preguntar en el Campus en la clase que corresponde: Clase1 ahi consulta, etc.
+
+### Issue
+
+Hay tareas incompletas mergeadas a master y son necesarias las correcciones, corroborar si necesitas realizar una corrección, cuando realices la corrección dejar el link del mismo en el issue.
+
+### Clases y apuntes en [GitHub_Ingenias2024](https://github.com/jeanmunoz23/Ingenias-Backend-2024)
+
+## La Equipa que hace posible que se vea tan lindo este Repo de Tareas:
+
+<a href="https://github.com/mariaelisaaraya/tareasIngeniasAlumnas/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mariaelisaaraya/tareasIngeniasAlumnas" />
+</a>
