@@ -1,0 +1,25 @@
+ <%- include('./header') %>
+<div>
+    <table>
+        <thead style="text-align: center;">
+            <tr>
+            <td>Color</td>
+            <td>Img</td>
+        </tr>
+        </thead>
+        
+        <tbody>
+                <% for (let i=0;i < products.length;i++) {%>
+                    <tr>
+                        <td><%= products[i].color %></td>
+                        <td>
+                            <img style="width: 100px;" src="<%= products[i].productoURL %>" alt="">
+                            </td>
+                    </tr>
+                    <% } %>
+            
+        </tbody>
+            
+    </table>
+</div> 
+
