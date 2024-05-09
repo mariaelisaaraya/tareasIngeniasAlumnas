@@ -38,12 +38,12 @@ app.get('/', (req, res) => {
     const data = {
         title: 'Mi sitio web con EJS',
         message: 'Bienvenidos a mi sitio web con el motor de plantillas EJS',
-        // productsURL: '/productos'
-        products: products
+        productsURL: '/productos'
     };
 
     res.render('index', data);
 });
+
 
 //Ruta para PAG PRODUCTOS
 app.get('/productos', (req, res) => {    
