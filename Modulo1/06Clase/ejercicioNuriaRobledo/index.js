@@ -37,7 +37,7 @@ app.use(express.static('views'));
 app.get('/', (req, res) => {   
     const data = {
         title: 'Mi sitio web con EJS',
-        message: 'Bienvenidos a mi sitio web con el motor de plantillas EJS',
+        message: 'Bienvenidos a mi sitio web con el motor de plantillas EJS y estilos con Bootstrap',
         productsURL: '/productos'
     };
 
