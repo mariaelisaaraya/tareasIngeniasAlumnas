@@ -8,12 +8,12 @@ const PORT = 3008;
 const products = [
     {
         id: 1,
-        name: 'Ordenador portatil',
-        price: 500
+        name: 'Notebook',
+        price: 400
     },
     {
         id: 2,
-        name: 'Ordenador sobremesa',
+        name: 'Mouse',
         price: 800
     },
     {
