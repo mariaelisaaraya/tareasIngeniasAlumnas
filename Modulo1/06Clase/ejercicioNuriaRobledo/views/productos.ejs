@@ -1,21 +1,25 @@
+<!-- incluyo el archivo head -->
 <%- include('head') %>
 
-<div class="container">
-<table>
-    <thead>
-        <tr>
-            <th>Nombre</th>
-            <th>Precio</th>
-        </tr>
-    </thead>
-    <tbody>
-        <% for (let i=0; i<products.length; i++ ) { %>
+<!-- tabla de productos con Bootstrap -->
+<div class="container" style="max-width: 500px;" >
+    <table class="table table-striped table-hover">
+        <thead class="thead-dark">
             <tr>
-                <td><%= products[i].name %></td>
-                <td><%= products[i].price %></td>
+                <th scope="col">Nombre</th>
+                <th scope="col">Precio</th>
             </tr>
-        <% } %>
-    </tbody>
+        </thead>
+        <tbody>
+            <% for (let i=0; i<products.length; i++ ) { %>
+                <tr>
+                    <td><%= products[i].name %></td>
+                    <td>$<%= products[i].price %></td>
+                </tr>
+            <% } %>
+        </tbody>
+    </table>
 </div>
-    
-</table>
+
+<!-- Boton para volver-->
+<a href="/" class="btn btn-primary">Volver a la página principal</a>
