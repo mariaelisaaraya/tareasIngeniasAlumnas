@@ -1,15 +1,14 @@
-#Tarea
-<h1>Desafío
-Crear un servidor web utilizando el módulo HTTP. El mismo deberá contener una serie de rutas específicas, y responder con HTML acorde, cada vez que se peticiona a cada ruta. También deberás controlar las rutas erróneas, respondiendo con un texto acorde ante una petición errónea. </h1>
-<ul> 
-<li> Definiremos una constante PORT, con el valor 3008. En el servidor web, debemos tener definidas a las siguientes rutas:
-● “/”
-● “/cursos”
-● “/contacto”
-</li>
-<li>
-Sesteamos el método header() en c/u de ellas para enviar content-type en formato HTML. En el método end() debemos enviar un tag H1 con un título descriptivo para la ruta que estamos navegando. Ejemplo:
-● “Bienvenidas a nuestra web” => para la raíz “/” del sitio
-● “Bienvenidas a nuestra sección cursos” => para /cursos
-</li>
-</ul>
+<h1> Corroboración del correcto funcionamiento del código </h1>
+1. 
+![Terminal T4] (https://github.com/MelEncinas/tareasIngeniasAlumnas/assets/112040379/4019bb1c-c6e0-4a69-89ee-14e05f10a44f)
+2. 
+![Home T4](https://github.com/MelEncinas/tareasIngeniasAlumnas/assets/112040379/2ed1341a-9b6c-4895-8619-bcff7e8a4a0d)
+3. 
+![Cursos T4](https://github.com/MelEncinas/tareasIngeniasAlumnas/assets/112040379/1422b0c2-9397-48bc-93f8-4e31b55124b1)
+4.
+![Contacto T4](https://github.com/MelEncinas/tareasIngeniasAlumnas/assets/112040379/3790a0ca-99dd-4721-b116-39cd97536176)
+5.
+![Error T4](https://github.com/MelEncinas/tareasIngeniasAlumnas/assets/112040379/d03d6f9e-eef1-4fc2-97b2-0a3205b23cf0)
+
+
+
