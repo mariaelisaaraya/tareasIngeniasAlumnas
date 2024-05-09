@@ -3,8 +3,6 @@ const cursos = require('../cursos');
 const app = express();
 const PORT = 3000;
 
-
-
 //Ruta raiz
 app.get('/', (req, res) => {
  res.send('¡Hola, mundo. Hola, Node.js!')
@@ -13,23 +11,11 @@ app.get('/', (req, res) => {
 //Ruta que muestra todos los cursos
 app.get('/cursosAll', (req, res) => {
     res.json(cursos); 
-  });
+});
 
 //Query Params
 app.get('/cursos', (req, res) => {
     const queryParams = Object.keys(req.query)
-    // if (queryParams.length === 0){
-    //     res.json(cursos);
-    // } else {
-    //     for (let curso of cursos){
-    //         if (curso.nombre.toLowerCase().includes(req.query.nombre.toLowerCase()) || curso.categoria.toLowerCase().includes(req.query.categoria.toLowerCase())){
-    //             resultado.push(curso)
-    //         }
-    //     }
-    //     resultado.length > 0 ?
-    //     res.json(resultado) :
-    //     res.json([{id: 'Error', descripcion: 'No se encontraron coincidencias'}]);
-    // }
     if (queryParams.length > 0){
         let resultado = [];
         for (let curso of cursos){
@@ -43,7 +29,6 @@ app.get('/cursos', (req, res) => {
     }else {
         res.json(cursos);
     }
-    
 });
 
 //Ruta que muestra los cursos filtrados por categoría (URL params)
@@ -66,7 +51,7 @@ app.get('/cursos/:categoria', (req, res) => {
     }
 });
 
-//ruta con URL param id
+//Ruta con URL param id
 app.get('/curso/codigo/:id', (req, res) => {
     let codigo = parseInt(req.params.id);
     if (typeof codigo === 'number') {
@@ -83,11 +68,9 @@ app.get('/curso/codigo/:id', (req, res) => {
     }
 })
 
-//ruta con URL param nombre
+//Ruta con URL param nombre
 app.get('/curso/nombre/:nombre', (req, res) => {
     let param = req.params.nombre.trim().toLowerCase()
-    console.log("params", param)
-    console.log(typeof(param))
     if (param !== ''){
         let result = []
 
@@ -106,10 +89,8 @@ app.get('/curso/nombre/:nombre', (req, res) => {
         res.json(result) :
         res.status(404).json({ id: 'Error', descripcion: 'No se encontraron coincidencias.' })
     }
-
 })
 
-//Manejo de rutas inexistentes
 // Ruta predeterminada para manejar rutas inexistentes
 app.get('*', (req, res) => {
     res.status(404).send('Lo siento, la página que buscas no existe.'); 
