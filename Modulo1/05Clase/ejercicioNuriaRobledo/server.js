@@ -1,4 +1,5 @@
 const express = require('express');
+const PORT = 3050; //defino el puerto
 const app = express();
 
 //escucha las peticiones entrantes
@@ -32,6 +33,6 @@ app.use((req, res) => {
 
 
 //define en puerto de escucha
-app.listen(3050, () => {
-    console.log('Server started on http://localhost:3000');
+app.listen(PORT, () => {
+    console.log(`Server started on http://localhost:${PORT}`);
 });
