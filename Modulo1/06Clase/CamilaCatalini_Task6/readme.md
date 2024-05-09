@@ -1,4 +1,4 @@
-# Desafío 7.
+# Desafío 6.
 
 ## Plantillas HTML/EJS
 
