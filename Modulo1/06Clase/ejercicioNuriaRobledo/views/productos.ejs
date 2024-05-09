@@ -1,0 +1,21 @@
+<%- include('head') %>
+
+<div class="container">
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% for (let i=0; i<products.length; i++ ) { %>
+            <tr>
+                <td><%= products[i].name %></td>
+                <td><%= products[i].price %></td>
+            </tr>
+        <% } %>
+    </tbody>
+</div>
+    
+</table>
