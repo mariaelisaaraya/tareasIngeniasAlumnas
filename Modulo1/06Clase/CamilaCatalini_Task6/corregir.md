@@ -1,0 +1,2 @@
+- Corregir en clase. 08/05/2024
+- No llegamos a corregir en clase, me comprometo corregir localmente el funcionamiento de la tarea. Lisa.
