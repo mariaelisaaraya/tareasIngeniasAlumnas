@@ -1,0 +1,13 @@
+{
+  "name": "ejercicionuriarobledo",
+  "version": "1.0.0",
+  "description": "Tarea de la clase 4, modulo http",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  
+  },
+  "author": "Nuria Robledo",
+  "license": "ISC"
+}
