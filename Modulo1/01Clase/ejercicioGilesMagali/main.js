@@ -1,3 +1,13 @@
+function listarPaises(array) {
+    console.log("Listado de países contenidos en el array:");
+    console.table(array);
+}
+
+const paises = ["Argentina", "Brasil", "Chile", "Colombia", "Perú"];
+listarPaises(paises);
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 function cambiarNombre() {
     const tuNombre = "Magalí"; 
