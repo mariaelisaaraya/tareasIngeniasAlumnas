@@ -1,0 +1,15 @@
+{
+  "name": "ejercicionuriarobledo",
+  "version": "1.0.0",
+  "description": "Ejercicio de la clase 6 - Plantilla EJS con tabla HTML dinamica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Nuria Robledo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
