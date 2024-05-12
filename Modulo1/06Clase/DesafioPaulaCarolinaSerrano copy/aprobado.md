@@ -1,4 +1,4 @@
-# Corrección de la Tarea de aaula Carolina
+# Corrección de la Tarea de Paula Carolina
 
 ## Comentarios
 
