@@ -6,12 +6,12 @@ En primer lugar, es importante recordar los requisitos de la tarea: Se nos pidi�
 
 Te sugiero que consideres eliminar los estilos CSS del HTML generado y te enfoques en proporcionar respuestas HTML simples y limpias. Por ejemplo:
 
-'''
+```
 else if (request.url === "/cursos") {
     response.setHeader("Content-Type", "text/html; charset=utf-8");
     respuesta = "<h1>Accediste al apartado de cursos</h1>";
 }
-'''
+```
 
 Al hacer esto, mantendremos nuestro código más organizado, fácil de entender y más fácil de mantener a largo plazo, te recomiendo que veas nuevamente la clase y corroborar estos datos.
 
