@@ -1,6 +1,6 @@
 {
   "name": "ejercicionuriarobledo",
-  "version": "1.0.0",
+  "version": "1.1",
   "description": "Ejercicio de la clase 6 - Plantilla EJS con tabla HTML dinamica",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "path": "^0.12.7"
   }
 }
