@@ -10,7 +10,7 @@
 
 ## Configuración del Content-Type
 - Todas las rutas establecen correctamente el `Content-Type`
-- 
+  
 ## Manejo de Rutas Inexistentes
 - Implementado adecuadamente para responder a cualquier ruta no definida con un estado 404 y un mensaje en formato texto plano.
 
