@@ -1,5 +1,5 @@
 const express = require('express');
-const cursos = require('../cursos');
+const cursos = require('./resources/cursos');
 const app = express();
 const PORT = 3000;
 
