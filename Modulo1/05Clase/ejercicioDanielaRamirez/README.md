@@ -20,3 +20,21 @@ En el package.json ver qué scripts existen para ejecutar:
 Se podrá ejecutar el proyecto con:
 - npm start
 - npm run dev
+
+## Capturas de Pantalla
+
+Página principal (home page):
+
+![Home Page](imagenes/homePage.jpg)
+
+Página de Cursos:
+
+![Cursos Page](imagenes/cursosPage.jpg)
+
+Página de Contacto:
+
+![Contacto Page](imagenes/contactoPage.jpg)
+
+Página no encontrada:
+
+![Page not found](imagenes/pageNotFound.jpg)
