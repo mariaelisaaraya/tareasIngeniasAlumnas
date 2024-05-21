@@ -15,7 +15,7 @@ const server = http.createServer((req,res) => {
         res.statusCode = 200;
         res.setHeader('Content-Type', 'text/html');
         res.end('<h1>No te quedes con dudas, contactanos por los siguientes medios:</h1>');
-    } else {
+    } else { 
         res.statusCode = 404;
         res.setHeader('Content-Type', 'text/plain');
         res.end('<h2>. 404 - Ruta inexistente</h2>');
