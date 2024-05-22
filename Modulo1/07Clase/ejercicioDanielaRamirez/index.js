@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const PORT =  3000
 
-const cursos = require('../cursos.js')
+const cursos = require('./cursos.js')
 
 // La ruta raíz
 app.get('/', (req, res) => {
@@ -40,6 +40,7 @@ app.get('/curso/codigo/:id', (req, res) => {
         for (let curso of cursos) {
             if (curso.id === parametro) {
                 resultado.push(curso)
+                break
             }
         }
         resultado.length > 0 ?
@@ -54,7 +55,7 @@ app.get('/curso/nombre/:nombre', (req, res) => {
     if (parametro !== ''){
         let resultado = []
         for (let curso of cursos) {
-            if (curso.nombre.toLowerCase().includes(parametro.toLowerCase())) {
+            if (curso.nombre.toLowerCase().includes(parametro)) {
                 resultado.push(curso)
             }
         }
