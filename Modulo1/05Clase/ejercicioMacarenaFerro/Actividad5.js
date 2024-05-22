@@ -5,7 +5,7 @@ const PORT = 3050 ;
 
 
 // Define una ruta basica
-app.get('/', (req, res) => {
+app.get('/', (req, res ) => {
     res.setHeader('Content-Type', 'text/html')
     res.send('<h1>Hola a todas, bienvenidas a nuestra web</h1>');
 })
