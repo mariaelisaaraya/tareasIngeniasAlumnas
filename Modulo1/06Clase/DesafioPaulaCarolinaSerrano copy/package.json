@@ -1,0 +1,22 @@
+{
+  "name": "desafiopaulacarolinaserrano",
+  "version": "1.0.0",
+  "description": "desafio de la clase 06 (Motores de plantillas)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paula Carolina Serrano",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "milligram": "^1.4.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
