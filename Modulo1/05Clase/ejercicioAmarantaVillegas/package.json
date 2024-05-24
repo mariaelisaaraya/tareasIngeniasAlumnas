@@ -1,0 +1,19 @@
+{
+  "name": "servidor-web-express",
+  "version": "1.0.0",
+  "description": "Servidor-Web-Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

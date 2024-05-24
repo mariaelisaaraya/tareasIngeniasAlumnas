@@ -1,11 +1,11 @@
 const express = require('express');
-const products = require('./productos'); 
+const productos = require('./productos'); 
 const app = express();
 const PORT = 3000;
 
 
 function getAllProductos() {
-    return products ? products :
+    return productos ? productos :
         { id: 'Error', descripcion: 'No se encontraron coincidencias.' }
 }
 
@@ -20,10 +20,10 @@ app.get('/productos', (req, res) => {
 //http://localhost:3000/productos/ordenados/?orden=des
 app.get('/productos/ordenados/', (req,res)=>{
   let orden = req.query.orden;
-  let products = getAllProductos();
+  let productosO = getAllProductos();
     //console.log(name)
     if(orden==='asc'){
-      let productosOrdenAsc = products.sort((a,b)=>{
+      let productosOrdenAsc = productosO.sort((a,b)=>{
         if(a.nombre < b.nombre){
           return -1;
         }else{
@@ -33,7 +33,7 @@ app.get('/productos/ordenados/', (req,res)=>{
       //console.log(productosOrdenAsc)
       res.json(productosOrdenAsc);
     }else if(orden==='des'){
-      let productosOrdenDes = products.sort((a,b)=>{
+      let productosOrdenDes = productosO.sort((a,b)=>{
         if(a.nombre > b.nombre){
           return -1;
         }else{
@@ -46,14 +46,14 @@ app.get('/productos/ordenados/', (req,res)=>{
 })
 
 //TRAE UN SOLO PRODUCTO SEGUN EL ID
-//http://localhost:3000/producto/1
-app.get('/producto/:id', (req, res) => {
-  let productCode = parseInt(req.params['id']);
-  if (typeof productCode === 'number') {
+//http://localhost:3000/producto/codigo/1
+app.get('/producto/codigo/:id', (req, res) => {
+  let codigoProducto = parseInt(req.params['id']);
+  if (typeof codigoProducto === 'number') {
       let result = [];
-      for (let product of products) {
-          if (product.id === productCode) {
-            result.push(product);
+      for (let p of productos) {
+          if (p.id === codigoProducto) {
+            result.push(p);
             break
           }
       }
@@ -72,9 +72,9 @@ app.get('/producto/nombre/:nombre', (req, res) => {
   if (param !== '') {
       let result = [];
       
-      products.forEach(products => {
-        if(products.nombre.toLowerCase().includes(param)){
-          result.push(products);
+      productos.forEach(p => {
+        if(p.nombre.toLowerCase().includes(param)){
+          result.push(p);
         }  
       });
 
@@ -86,33 +86,15 @@ app.get('/producto/nombre/:nombre', (req, res) => {
 
 //TRAE PRODUCTOS SEGUN LA CATEGORIA
 //http://localhost:3000/productos/categoria/relojes
-app.get('/productos/categoria', (req, res) => { 
-  let param = req.params['categoria'].trim().toLowerCase();
-  //console.log(param)
-  if (param !== '') {
-      let result = [];
-
-      products.forEach(products => {
-        if(products.categoria.toLowerCase().includes(param)){
-          result.push(products);
-        }  
-      });
-
-      result.length > 0 ? 
-      res.json({'categoria':param,'productos':result}) :
-      res.status(404).json({ id: 'Error', descripcion: 'No se encontraron coincidencias.' })
-  }
-})
-
 app.get('/productos/categoria/:categoria', (req, res) => { 
   let param = req.params['categoria'].trim().toLowerCase();
   //console.log(param)
   if (param !== '') {
       let result = [];
       
-      products.forEach(products => {
-        if(products.categoria.toLowerCase().includes(param)){
-          result.push(products);
+      productos.forEach(p => {
+        if(p.categoria.toLowerCase().includes(param)){
+          result.push(p);
         }  
       });
 
