@@ -1,0 +1,13 @@
+{
+  "name": "05clase",
+  "version": "1.0.0",
+  "description": "primera entrega de la actividad 5, servidor web",
+  "main": "Actividad5.js",
+  "scripts": {
+    "start": "node Actividad5.js",
+    "dev":"nodemon Actividad5.js"
+  },
+  "keywords": [],
+  "author": "Macarena Ailen Ferro",
+  "license": "ISC"
+}

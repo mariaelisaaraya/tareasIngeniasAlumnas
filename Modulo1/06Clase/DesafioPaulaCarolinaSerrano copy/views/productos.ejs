@@ -1,0 +1,38 @@
+<%- include('head') %>
+    <div class="container">
+        <h1>
+            <%= title %>
+        </h1>
+        <p>
+            <%= message %>
+        </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nombre del producto</th>
+                    <th>Precio ($ARS)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% for (let i=0; i < products.length; i++) { %>
+                    <tr>
+                        <td>
+                         <%= products[i].name %>
+                        </td>
+                        <td>
+                            <%= products[i].price %>
+                        </td>
+                    </tr>
+                    <% } %>
+
+            </tbody>
+
+        </table>
+        <a href="/" class="button"> Volver a HOME </a>
+
+
+    </div>
+    <%- include('footer') %>
+        </body>
+
+        </html>
