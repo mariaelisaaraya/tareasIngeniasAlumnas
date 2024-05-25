@@ -1,12 +1,13 @@
 {
-  "name": "ejercicio4_estefania_vago",
+  "name": "tareasingeniasalumnas",
   "version": "1.0.0",
+  "description": "¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento.",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
