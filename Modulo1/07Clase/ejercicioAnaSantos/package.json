@@ -1,16 +1,17 @@
 {
     "name": "rutasdinamicas-tarea7",
-  "version": "1.0.0",
-  "description": "Generaremos un servidor con nodejs + express + nodemon.",
+    "version": "1.0.0",
+    "description": "Generaremos un servidor con nodejs + express + nodemon.",
     "main": "index.js",
     "scripts": {
-      "start": "node --watch index.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "node --watch index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
     "author": "Ana Santos",
     "license": "ISC",
     "dependencies": {
-      "express": "^4.19.2"
+        "express": "^4.19.2"
     }
-  }
+}
+

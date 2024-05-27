@@ -1,0 +1,19 @@
+{
+  "name": "tarea5yaniv",
+  "version": "1.0.0",
+  "description": "Generamos un servidor con nodejs + express + nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "YaniiV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

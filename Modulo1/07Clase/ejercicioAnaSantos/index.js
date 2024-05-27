@@ -56,6 +56,7 @@ app.get('/curso/nombre/:nombre', (req, res) => {
         for (let curso of cursos) {
             if (curso.nombre.toLowerCase().includes(parametro.toLowerCase())) {
                 resultado.push(curso)
+                break
             }
         }
         resultado.length > 0 ?
