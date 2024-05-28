@@ -1,0 +1,18 @@
+{
+  "name": "practica6",
+  "version": "1.0.0",
+  "description": "plantilla EJS",
+  "main": "ejercicio6.js",
+  "scripts": {
+    "start": "node ejercicio6.js",
+    "dev": "node --watch ejercicio6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariana Pasten",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "path": "^0.12.7"
+  }
+}
