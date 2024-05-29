@@ -7,5 +7,7 @@ mongodb+srv://anasantossofiacerpa:UAFTRprwLlL0Vtih@nosqldatabase.ueewgau.mongodb
 
 ## Capturas de Pantalla
 
-![Frutas.json cargado en la BBDD](Image.png)
+**Carga de una BBDD desde un archivo JSON**:
+
+![Frutas.json cargado en la BBDD](image.png)
 

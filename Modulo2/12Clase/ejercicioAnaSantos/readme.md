@@ -1,52 +1,51 @@
-## Curso de Backend 2024 - Ingenias - Aula Kimberly Bryant
+# Cluster en Compass
 
-¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
+```
+mongodb+srv://anasantossofiacerpa:UAFTRprwLlL0Vtih@nosqldatabase.ueewgau.mongodb.net/
 
----
+```
 
-#### Módulo 1 - Servidores Web y Api Restful -
-* Guía de actividades prácticas: Módulo 1 y 2
+## Capturas de Pantalla
 
-#### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
-* Guía de actividades prácticas: Módulo 1 y 2
+**1.** Busca las frutas donde su nombre comienza con 'Manz':
 
-#### Módulo 3 - SQL, Documentación y Testing- 
-* Guía de actividades prácticas: Módulo 3
+![Query 1](q1.png)
 
----
 
-## Pasos para subir tu Tarea
+**2.** Busca las frutas que tienen un precio menor a 200:
 
-Antes de enviar un Pull Request hay que considerar las siguientes pasos:
+![Query 2](q2.png)
 
-- Clona el repositorio.
-- Crea una nueva branch: `git checkout -b my-branch main`
-- Tus cambios deberían quedar como por ejemplo:
-    - Modulo1
-        - Clase05
-            -  **carpetaBernarditaSanchez**
-                - README.md
-                - index.js
-                - package.json
-                - .gitignore
-- Commitea tu código con un buen mensaje de commit [usando "Conventional Commits"](https://www.youtube.com/watch?v=SigVVJmUGv8).
-- Hacé push de tu branch a GitHub: `git push origin my-branch`
-- Crear Pull Request
 
----
+**3.** Busca las frutas que tienen un precio mayor o igual a 500:
 
-### Ayuda
+![Query 3](q3.png)
 
-Si tenes  cualquier duda podes preguntar en el Campus en la clase que corresponde: Clase1 ahi consulta, etc.
 
-### Issue
+**4.** Buscar las frutas que tienen los nombres 'Arándanos', 'Cerezas’, 'Frutillas’:
 
-Hay tareas incompletas mergeadas a master y son necesarias las correcciones, corroborar si necesitas realizar una corrección, cuando realices la corrección dejar el link del mismo en el issue.
+![Query 4](q4.png)
 
-### Clases y apuntes en [GitHub_Ingenias2024](https://github.com/jeanmunoz23/Ingenias-Backend-2024)
 
-## La Equipa que hace posible que se vea tan lindo este Repo de Tareas:
+**5.** Buscar las frutas que tienen un precio mayor o igual a 600 y su stock 
+superior a 50:
 
-<a href="https://github.com/mariaelisaaraya/tareasIngeniasAlumnas/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mariaelisaaraya/tareasIngeniasAlumnas" />
-</a>
+![Query 5](q5.png)
+
+
+**6.**  Repite el punto 2, agregando un ordenamiento por el nombre, de forma 
+ascendente:
+
+![Query 6](q6.png)
+
+
+**7.**  Repite el punto 4, agregando un ordenamiento por el nombre de forma 
+descendente:
+
+![Query 7](q7.png)
+
+
+**8.**  Repite el punto 5, agregando un ordenamiento por el id de forma ascendente
+:
+
+![Query 8](q8.png)
