@@ -5,10 +5,12 @@
 ---
 
 #### Módulo 1 - Servidores Web y Api Restful -
-* Guía de actividades prácticas: Módulo 1 y 2
+* Guía de actividades prácticas: Módulo 1
+  - Son aceptadas hasta **02/06/2024** inclusive
 
 #### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
-* Guía de actividades prácticas: Módulo 1 y 2
+* Guía de actividades prácticas: Módulo 2
+  - Tarea 11 **Obligatoria**
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
