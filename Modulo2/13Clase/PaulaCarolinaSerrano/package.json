@@ -4,7 +4,7 @@
   "description": "NodeJS + MongoDB",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "author": "Paula Carolina Serrano",
   "license": "ISC",
@@ -12,5 +12,8 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongodb": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
   }
 }

@@ -1,11 +1,13 @@
+// ENVIRONMENT
 const dotenv = require('dotenv');
 dotenv.config();
+
 //importación del driver oficial de MongoDB
 const {MongoClient} = require('mongodb');
 
 //instancia del driver
-const URI = process.env.MONGODB_URLSTRING;
-const client = new MongoClient();
+const URL = process.env.MONGODB_URLSTRING || "";
+const client = new MongoClient(URL);
 
 //Se debe usar un modelo asincrónico ya que los tiempos de respuesta de un servidor Cloud escapan a nuestro control
 
