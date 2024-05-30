@@ -1,6 +1,6 @@
 ## Curso de Backend 2024 - Ingenias - Aula Kimberly Bryant
 
-¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
+¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que ayudarán a aplicar el conocimiento visto en clase. 
 
 ---
 
