@@ -11,6 +11,8 @@
 #### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
 * Guía de actividades prácticas: Módulo 2
   - Tarea 11 **Obligatoria**
+    - Tiempo de Fecha de Entrega: Domingo 02/06/2024 18pm
+        - Miércoles⭐ - Jueves⭐ - Viernes⭐ - Sábado⭐ - Domingo⭐
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
