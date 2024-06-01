@@ -18,7 +18,7 @@
 - Silvina Figueroa
 - Daniela Ramírez -> Aprobada ⭐⭐⭐⭐⭐
 - Rocio Ibañez
-- Amaranta Villegas -> Aprobada ⭐⭐⭐⭐
+- Amaranta Villegas -> Aprobada ⭐⭐⭐
 
 - Natalia Cisnero
 - Estefania vago
