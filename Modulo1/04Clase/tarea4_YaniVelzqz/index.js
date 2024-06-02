@@ -1,5 +1,6 @@
-//creacion de un servidor
+//Defino el servidor
 const http = require('http');
+//Definimos el puerto
 const PORT = 3008;
 
 const server = http.createServer((request, response) => {
