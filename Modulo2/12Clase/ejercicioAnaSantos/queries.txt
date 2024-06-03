@@ -1,0 +1,35 @@
+Primera Consulta
+{nombre: {$regex: "Manz"}}
+
+
+Segunda Consulta
+{importe: {$lt: 200}}
+
+
+Tercera Consulta
+{importe: {$gte: 500}}
+
+
+Cuarta Consulta
+{nombre: {$in: ['Arandanos', 'Cerezas', 'Frutillas']}}
+
+
+Quinta Consulta
+{$and: [{importe:{$gte:600}},{stock:{$gt:50}}]}
+
+
+Sexta Consulta
+{importe: {$lt: 100}}
+En Options/Sort -> {nombre: -1}
+
+
+Septima Consulta
+{nombre: {$in: ['Arandanos', 'Cerezas', 'Frutillas']}}
+En Options/Sort -> {nombre: -1}
+
+
+Octava Consulta
+{$and: [{importe: {$gte: 600}}, {stock: {$gt: 50}}]}
+En Options/Sort -> {id: 1}
+
+
