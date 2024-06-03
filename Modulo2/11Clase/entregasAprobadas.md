@@ -20,7 +20,7 @@
 - Rocio Ibañez -> Aprobada ⭐⭐
 - Amaranta Villegas -> Aprobada ⭐⭐⭐
 
-- Natalia Cisnero
+- Natalia Cisnero -> 🟠Entrega durante esta semana 03 al 07 de junio 
 - Estefania vago -> Aprobada ⭐
 - Daniela Escobar -> Aprobada ⭐ 
 - Yanina Lujan Velazquez 
