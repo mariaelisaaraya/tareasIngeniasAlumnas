@@ -22,7 +22,7 @@
 
 - Natalia Cisnero
 - Estefania vago
-- Daniela Escobar -> Aprobada -Corroborar GitHub- Lunes o Miércoles
+- Daniela Escobar -> Aprobada ⭐ -Corroborar GitHub- Lunes o Miércoles
 - Yanina Lujan Velazquez 
 
 - Andrea Ayelén Diaz
