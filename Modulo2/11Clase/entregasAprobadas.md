@@ -1,11 +1,11 @@
 **Listado de Alumnas**:
 
 - Melisa Encinas
-- Camila Catalini
+- Camila Catalini -> Aprobada ⭐
 - karla chavez
 - Mariana Pasten
 
-- Paula Carolina Serrano 
+- Paula Carolina Serrano -> Aprobada ⭐
 - Carla Karina Fernández Osa
 - Viviana Beatriz Aguilera Valenzuela 
 - Delfina Schlossberg 
@@ -15,9 +15,9 @@
 - Jorgelina Belen Sigal
 - Yilda Rivero
 
-- Silvina Figueroa
+- Silvina Figueroa -> Aprobada ⭐
 - Daniela Ramírez -> Aprobada ⭐⭐⭐⭐⭐
-- Rocio Ibañez -> Aprobada ⭐
+- Rocio Ibañez -> Aprobada ⭐⭐
 - Amaranta Villegas -> Aprobada ⭐⭐⭐
 
 - Natalia Cisnero
