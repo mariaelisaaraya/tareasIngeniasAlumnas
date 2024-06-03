@@ -1,14 +1,18 @@
 ## Curso de Backend 2024 - Ingenias - Aula Kimberly Bryant
 
-¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que te ayudarán a aplicar tu conocimiento. 
+¡Bienvenaaaaaidas! 👋 Este repositorio contiene Tareas de las Alumnas del curso de Curso de Backend - Aula Kimberly Bryant. Durante el curso se va a aprender los fundamentos de desarrollo web backend paso a paso a través de la práctica con ejemplos y proyectos cortos que ayudarán a aplicar el conocimiento visto en clase. 
 
 ---
 
 #### Módulo 1 - Servidores Web y Api Restful -
-* Guía de actividades prácticas: Módulo 1 y 2
+* Guía de actividades prácticas: Módulo 1
+  - Son aceptadas hasta **02/06/2024** inclusive
 
 #### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
-* Guía de actividades prácticas: Módulo 1 y 2
+* Guía de actividades prácticas: Módulo 2
+  - Tarea 11 **Obligatoria**
+    - **ULTIMA** Fecha de Entrega: Lunes 03/06/2024 17pm
+        - Miércoles⭐ - Jueves⭐ - Viernes⭐ - Sábado⭐ - Domingo⭐ / Lunes sin estrellas.
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3

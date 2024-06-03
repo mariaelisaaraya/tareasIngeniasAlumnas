@@ -1,0 +1,12 @@
+{
+  "name": "practica-4",
+  "version": "1.0.0",
+  "description": "mi primer proyecto http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariana Pasten",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+<%- include('./partials/header') %>
+    <div class="container">
+        <h1><%= title %></h1>
+        <p><%= message %></p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Productos</th>
+                    <th>Precio</th>
+                    <th>Imagen</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% for (let i = 0; i < productos.length; i++) { %>
+                <tr>
+                    <td><%= productos[i].nombre %></td>
+                    <td>$ <%= productos[i].precio %></td>
+                    <td><%= productos[i].imagen %></td>
+                </tr>
+                <% } %>
+            </tbody>
+        </table>
+        <br>
+        <a href="/" class="button">Volver</a>
+    </div>
+    <%- include('./partials/footer') %>
+</body>
+</html>

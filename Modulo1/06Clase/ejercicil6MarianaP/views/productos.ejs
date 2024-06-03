@@ -1,0 +1,39 @@
+<head>
+    <meta charset="utf-8">
+    <title>Costura Creativa</title>
+</head>
+<body>
+    <header>
+        <%- include('./partials/header.ejs')%>
+    </header>
+    <main>
+        <div class="container">
+            <h2><% titulo %></h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nombre:</th>
+                        <th>Tipo de tela:</th>
+                        <th>Estampado:</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% for(let i=0; i< prodcostura.length;i++) {%>
+                        <tr>
+                            <td><%= prodcostura[i].nomb %></td>
+                            <td><%= prodcostura[i].tela %></td>
+                            <td><%= prodcostura[i].estampa %></td>
+                        </tr>
+                        <% } %>
+                </tbody>
+            </table>
+        </div>
+        
+    </main>
+    <footer>
+        <a href="/" class="button">Volver</a>
+        <%- include('./partials/footer.ejs')%>
+    </footer>
+</body>
+
+
