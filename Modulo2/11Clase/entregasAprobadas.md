@@ -1,6 +1,6 @@
 **Listado de Alumnas**:
 
-- Melisa Encinas
+- Melisa Encinas -> Entrega durante esta semana 03 al 07 de junio
 - Camila Catalini -> Aprobada ⭐
 - karla chavez
 - Mariana Pasten
@@ -31,7 +31,7 @@
 - Magalí Giles
 
 - Macarena Ailen Ferro
-- Yaidny junixza Briceño cortes
+- Yaidny junixza Briceño cortes -> Entrega durante esta semana 03 al 07 de junio
 - Daniela Correa
 - Yanina Ferreira 
 - Celina Lopez
