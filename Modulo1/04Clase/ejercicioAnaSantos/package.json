@@ -1,0 +1,12 @@
+{
+  "name": "clase04",
+  "version": "1.0.0",
+  "description": "Tarea Clase 04 del Curso de Ingenias",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Santos",
+  "license": "ISC"
+}

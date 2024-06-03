@@ -1,0 +1,19 @@
+{
+  "name": "practica5",
+  "version": "1.0.0",
+  "description": "servidor con express",
+  "main": "ejercicio5.js",
+  "scripts": {
+    "start": "node --watch ejercicio5.js",
+    "dev":"nodemon ejercicio5.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariana Pasten",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

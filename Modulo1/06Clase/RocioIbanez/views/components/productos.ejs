@@ -1,0 +1,31 @@
+<%- include('../partials/header.ejs') %>
+<body class="bg-danger-subtle" style="font-family: 'Silkscreen'">
+  <div class="container d-flex flex-column align-items-center">
+    <h1 class="fs-2"><%= title %></h1>
+    <p class="fs-5"><%= message %></p>
+    <div class="m-3">
+      <a class="btn btn-danger btn-lg" href="/">Volver a Home</a>
+    </div>
+    <table
+      class="table table-bordered border-danger table-striped align-middle"
+    >
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nombre</th>
+          <th>Precio</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% productos.forEach(producto => { %>
+        <tr>
+          <td><%= producto.imagen %></td>
+          <td><%= producto.nombre %></td>
+          <td>$<%= producto.precio %></td>
+        </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </div>
+</body>
+<%- include('../partials/footer.ejs') %>
