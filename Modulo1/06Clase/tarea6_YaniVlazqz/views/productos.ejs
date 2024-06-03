@@ -1,0 +1,42 @@
+<%- include('./partials/header.EJS') %>
+    <div class="container">
+        <div class="container-titls">
+            <h1>
+                <%= title %>
+            </h1>
+            <p>
+                <%= message %>
+            </p>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th class="subtitulos">Nombre del Producto</th>
+                    <th class="subtitulos">Precio</th>
+                    <th class="subtitulos">Imagen</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% for (let i=0; i < frutas.length; i++) { %>
+                    <tr>
+                        <td class="text-datos">
+                            <%= frutas[i].nombre %>
+                        </td>
+                        <td class="text-datos">$ <%= frutas[i].precio %>
+                        </td>
+                        <td class="text-datos"><img src="<%= frutas[i].imagen %>" alt="<%= frutas[i].nombre %>"></td>
+                    </tr>
+                    <% } %>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Boton para volver-->
+    <div class="caja-botonH">
+        <button class="button-home"> <a href="/" class="button-link">HOME</a> </button>
+    </div>
+
+    <%- include('./partials/footer.EJS') %>
+        </body>
+
+        </html>

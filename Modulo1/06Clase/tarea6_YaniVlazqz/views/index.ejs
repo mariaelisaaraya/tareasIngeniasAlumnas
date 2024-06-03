@@ -1,0 +1,10 @@
+<!--Importo includes con contenido-->
+<%- include('./partials/header.EJS') %>
+    <div class="container-titls">
+        <h1> <%= title %> </h1>
+        <p> <%= message %> </p>
+        <div class="caja-button">
+            <button class="button-ver"><a href="<%= productsURL %>" class="button-link">Ver Productos </button></a>
+        </div>
+    </div>
+<%- include('./partials/footer.EJS') %>
