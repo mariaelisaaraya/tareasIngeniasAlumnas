@@ -12,7 +12,6 @@
 * Guía de actividades prácticas: Módulo 2
   - Tarea 11 **Obligatoria**
     - **ULTIMA** Fecha de Entrega: Lunes 03/06/2024 17pm
-        - Miércoles⭐ - Jueves⭐ - Viernes⭐ - Sábado⭐ - Domingo⭐ / Lunes sin estrellas.
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
