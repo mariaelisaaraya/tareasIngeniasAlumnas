@@ -15,13 +15,14 @@ const server = http.createServer((request, response) =>{
         respuesta = "<h1>Pagina no encontrada</h1>"
     }
     
-    response.statusCode = statusCode
-    response.setHeader('charset', 'UTF-8')
-    response.setHeader('Content-Type', 'text/html')
-    response.end(respuesta)
-    server.listen(PORT, () => {
-        console.log(`Servidor escuchando en http://localhost:${PORT}`)
-    })
-
-
+    response.statusCode = statusCode;
+    response.setHeader('charset', 'UTF-8');
+    response.setHeader('Content-Type', 'text/html');
+    response.end(respuesta);
 });
+    server.listen(PORT, () => {
+       
+        console.log(`Servidor escuchando en http://localhost:${PORT}`)
+    });
+
+
