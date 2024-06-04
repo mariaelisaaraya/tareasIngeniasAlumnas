@@ -28,9 +28,9 @@
 - Andrea Ayelén Diaz -> Aprobada ⭐
 - Daniela Soto -> Aprobada ⭐
 - Ana Santos -> Aprobada ⭐⭐⭐⭐⭐
-- Magalí Giles -> 🟠 Limpiar PR
+- Magalí Giles ->  🟠 Maga corrobora que solamente subas la tarea 11 del modulo 2, todo lo demás no lo subas, si no podes avisame en ese comentario del MR, fijate que estás subiendo 3 cambios y es uno solo, lo podes corroborar en Files Changed, del lado derecho arriba.
 
-- Macarena Ailen Ferro -> 🟠 Limpiar PR
+- Macarena Ailen Ferro -> 🟠 Maca corrobora que solamente subas la tarea 11 del modulo 2, todo lo demás no lo subas, si no podes avisame en ese comentario del MR.
 - Yaidny junixza Briceño cortes -> 🟠Entrega durante esta semana 03 al 07 de junio 
 - Daniela Correa
 - Yanina Ferreira ->  🔥 Por favor entregar durante esta semana 03 al 07 de junio
