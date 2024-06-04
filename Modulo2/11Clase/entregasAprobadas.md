@@ -23,9 +23,9 @@
 - Natalia Cisnero -> 🟠Entrega durante esta semana 03 al 07 de junio 
 - Estefania vago -> Aprobada ⭐
 - Daniela Escobar -> Aprobada ⭐ 
-- Yanina Lujan Velazquez 
+- Yanina Lujan Velazquez-> 🔥 Por favor entregar durante esta semana 03 al 07 de junio
 
-- Andrea Ayelén Diaz
+- Andrea Ayelén Diaz -> Aprobada ⭐
 - Daniela Soto -> Aprobada ⭐
 - Ana Santos -> Aprobada ⭐⭐⭐⭐⭐
 - Magalí Giles -> 🟠 Limpiar PR
@@ -33,7 +33,7 @@
 - Macarena Ailen Ferro -> 🟠 Limpiar PR
 - Yaidny junixza Briceño cortes -> 🟠Entrega durante esta semana 03 al 07 de junio 
 - Daniela Correa
-- Yanina Ferreira 
+- Yanina Ferreira ->  🔥 Por favor entregar durante esta semana 03 al 07 de junio
 - Celina Lopez
 
 - Tatiana  Garay
