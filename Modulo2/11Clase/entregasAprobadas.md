@@ -37,7 +37,7 @@
 - Celina Lopez
 
 - Tatiana  Garay
-- Gabriela Espinach Ros -> 🟠Entrega durante esta semana 03 al 07 de junio
+- Gabriela Espinach Ros -> Aprobada ⭐
 - Brenda Diaz
 - Amparo Blanco de la Vega
 
