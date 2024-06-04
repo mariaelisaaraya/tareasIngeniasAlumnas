@@ -10,7 +10,7 @@
 - Viviana Beatriz Aguilera Valenzuela -> Aprobada ⭐
 - Delfina Schlossberg 
 
-- Catalina gatica fraysse
+- Catalina gatica fraysse -> 🔴 Baja Curso
 - Maria Zarate
 - Jorgelina Belen Sigal -> Aprobada ⭐
 - Yilda Rivero
