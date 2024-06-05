@@ -23,7 +23,7 @@
 - Natalia Cisnero -> 🟠Entrega durante esta semana 03 al 07 de junio 
 - Estefania vago -> Aprobada ⭐
 - Daniela Escobar -> Aprobada ⭐ 
-- Yanina Lujan Velazquez-> 🔥 Por favor entregar durante esta semana 03 al 07 de junio
+- Yanina Lujan Velazquez-> Aprobada ⭐
 
 - Andrea Ayelén Diaz -> Aprobada ⭐
 - Daniela Soto -> Aprobada ⭐
