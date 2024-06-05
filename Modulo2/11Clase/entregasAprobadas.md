@@ -11,9 +11,9 @@
 - Delfina Schlossberg 
 
 - Catalina gatica fraysse -> 🔴 Baja Curso
-- Maria Zarate
+- Maria Zarate -> 🔴 Baja Curso
 - Jorgelina Belen Sigal -> Aprobada ⭐
-- Yilda Rivero
+- Yilda Rivero -> 🔴 Baja Curso
 
 - Silvina Figueroa -> Aprobada ⭐
 - Daniela Ramírez -> Aprobada ⭐⭐⭐⭐⭐
