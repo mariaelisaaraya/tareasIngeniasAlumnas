@@ -31,7 +31,7 @@
 - Magalí Giles ->  🟠 Maga corrobora que solamente subas la tarea 11 del modulo 2, todo lo demás no lo subas, si no podes avisame en ese comentario del MR, fijate que estás subiendo 3 cambios y es uno solo, lo podes corroborar en Files Changed, del lado derecho arriba.
 
 - Macarena Ailen Ferro -> 🟠 Maca corrobora que solamente subas la tarea 11 del modulo 2, todo lo demás no lo subas, si no podes avisame en ese comentario del MR.
-- Yaidny junixza Briceño cortes -> 🟠Entrega durante esta semana 03 al 07 de junio 
+- Yaidny junixza Briceño cortes ->⭐🔥⭐ Super Aprobada, intenter ver su PR para que vean todos los pasos que fue haciendo para revertir su commit
 - Daniela Correa
 - Yanina Ferreira ->  🔥 Por favor entregar durante esta semana 03 al 07 de junio
 - Celina Lopez
