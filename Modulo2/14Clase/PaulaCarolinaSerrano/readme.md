@@ -1,0 +1,1 @@
+Dejo una duda respecto al manejo de errores en las rutas en la línea 186 del archivo index.js
