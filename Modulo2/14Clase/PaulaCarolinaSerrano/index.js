@@ -277,7 +277,7 @@ app.patch("/frutas/:id", async (req, res) => {
 
 //manejo de rutas inexistentes
 app.get("*", (req, res) => {
-  res.json({
+  res.status(404).json({
     error: "404",
     message: "No se encuentra la ruta solicitada",
   });

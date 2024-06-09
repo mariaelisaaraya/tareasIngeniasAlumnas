@@ -58,7 +58,7 @@ app.get('/rutaprotegida', verifyToken, (req, res, next) => {
 })
 
 app.get('*', (req, res)=>{
-    res.status(403).send('La ruta no existe')
+    res.status(404).send('La ruta no existe')
 })
 // Iniciar el servidor
 app.listen(PORT, () => console.log(`Servidor iniciado en el puerto http://localhost:${PORT}`) );
