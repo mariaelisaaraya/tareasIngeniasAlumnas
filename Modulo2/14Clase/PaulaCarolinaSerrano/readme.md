@@ -107,8 +107,4 @@ DELETE -> http://localhost:3008/frutas/26
 - 404: Recurso no encontrado
 - 400: Error en el formato de los datos (ID o precio no válidos)
 
-```mermaid
-flowchart LR
-id
 
-```
