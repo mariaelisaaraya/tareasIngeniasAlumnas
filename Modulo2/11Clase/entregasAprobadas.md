@@ -3,7 +3,7 @@
 - Melisa Encinas -> 🟠Entrega durante esta semana 03 al 07 de junio
 - Camila Catalini -> Aprobada ⭐
 - karla chavez -> Aprobada ⭐
-- Mariana Pasten -> 🟠 Limpiar PR
+- Mariana Pasten -> Aprobada ⭐
 
 - Paula Carolina Serrano -> Aprobada ⭐
 - Carla Karina Fernández Osa
@@ -33,7 +33,7 @@
 - Macarena Ailen Ferro -> Aprobada ⭐
 - Yaidny junixza Briceño cortes ->⭐🔥⭐ Super Aprobada, intenten ver su PR para que vean todos los pasos que fue haciendo para revertir su commit
 - Daniela Correa
-- Yanina Ferreira ->  🔥 Por favor entregar durante esta semana 03 al 07 de junio
+- Yanina Ferreira ->  🔥 Corroborar de limpiar el PR
 - Celina Lopez
 
 - Tatiana  Garay
