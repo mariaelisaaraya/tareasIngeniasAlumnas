@@ -1,0 +1,9 @@
+//Primero defini mis  Variables de entorno 
+//Luego Defino mi servidor
+//Hago mi Middleware para la configuración del encabezado Content-Type
+//Cuando tengo todo esto empiezo con mi Mensaje de bienvenida cuando entro al local
+//Creo una Ruta para obtener todas las frutas
+//Ruta para buscar frutas por nombre ejem(bananas)
+//Creo otra ruta o el segundo endpoint para buscar frutas por precio
+//En el endpoint de frtutas por precio no me salia asi que lo cambie para que busque por importe
+// Me conecto a MongoDB y luego inicio el servidor con thunderclient
