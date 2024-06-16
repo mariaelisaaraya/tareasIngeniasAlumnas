@@ -4,6 +4,7 @@ const app = express();
 const bodyParser = require("body-parser");
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+require('dotenv').config();
 const PORT = process.env.PORT || 3008;
 
 //middleware
@@ -277,7 +278,7 @@ app.patch("/frutas/:id", async (req, res) => {
 
 //manejo de rutas inexistentes
 app.get("*", (req, res) => {
-  res.json({
+  res.status(404).json({
     error: "404",
     message: "No se encuentra la ruta solicitada",
   });
