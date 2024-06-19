@@ -1,0 +1,19 @@
+{
+  "name": "ejerciciopastenmariana",
+  "version": "1.0.0",
+  "main": "ejercicio13.js",
+  "scripts": {
+    "start": "node --watch ejercicio13.js",
+    "dev": "node ejercicio13.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mariana pasten",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
