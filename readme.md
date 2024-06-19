@@ -14,8 +14,8 @@
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
-  - Tarea N? **Obligatoria**
-    - Hay una tarea obligatoria individual solamente, se avisa.
+  - Tarea N18 **Obligatoria**
+    - Fecha de Entrega: 26/06/2024 Miércoles.
 
 ---
 
