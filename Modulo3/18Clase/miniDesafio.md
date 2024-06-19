@@ -1,0 +1,1 @@
+Subir caputa de que tienen instalado MySql.
