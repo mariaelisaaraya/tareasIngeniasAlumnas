@@ -1,0 +1,100 @@
+/*Estilos en general*/
+body {
+    margin: 0; 
+    padding: 0; 
+    background-color: #e8c66e;
+}
+
+/*Estilos del contenido de header y del archivo productos.js*/
+.img-head {
+    width: 100%;
+}
+
+.container-titls {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #281a15;
+}
+
+.subtitulos {
+    font-size: 18px;
+    color: #281a15;
+    
+}
+
+.text-datos {
+font-size: 14px;
+color: #281a15;
+}
+
+
+/*Estilos de botones 'ver productos' y 'home'.*/
+.caja-button {
+    margin: 14px;
+}
+
+.button-ver {
+    padding: 12px 10px;
+    background-color: transparent;
+    border-radius: 30px;
+    border: 3px solid;
+    color: white;
+    box-shadow: 7px 7px 13px 2px #cd6934;
+    font-weight: bold;
+    line-height: 1;
+    font-size: 16px;
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    cursor: pointer;
+    width: 200px;
+}
+
+.caja-botonH {
+    margin: 9px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.button-home {
+    padding: 12px 10px;
+    background-color: transparent;
+    border-radius: 30px;
+    border: 3px solid;
+    color: white;
+    box-shadow: 7px 7px 13px 2px #cd6934;
+    font-weight: bold;
+    line-height: 1;
+    font-size: 16px;
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    cursor: pointer;
+    width: 100px;
+}
+
+.button-home:hover ,.button-ver:hover  {
+    background: #cd6a3460;
+    color: #281a15;
+    border: 1 solid #ffffff;
+    transition: ease all 1.0s;
+    transform: scale(1.1);
+}
+
+
+/*Estilos del contenido de footer*/
+footer {
+    margin: 0px; 
+    padding:10px; 
+    background-color:#7f9964;
+    display: flex;
+    justify-content: center;
+    align-items: self-end;
+    width: 100%;
+}
+
+.copyright {
+    color: #281913;
+    font-size: 14px;
+    font-weight: bold;
+}
