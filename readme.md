@@ -15,7 +15,7 @@
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
   - Tarea N18 **Obligatoria**
-    - Fecha de Entrega: 26/06/2024 Miércoles.
+    - Fecha de Entrega: 26/06/2024 Miércoles 17hs.
 
 ---
 
