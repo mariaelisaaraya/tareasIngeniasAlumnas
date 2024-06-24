@@ -5,7 +5,7 @@
 - karla chavez -> 
 - Mariana Pasten -> 
 
-- Paula Carolina Serrano -> 
+- Paula Carolina Serrano -> Aprobada ⭐
 - Carla Karina Fernández Osa
 - Viviana Beatriz Aguilera Valenzuela -> 
 - Delfina Schlossberg 
