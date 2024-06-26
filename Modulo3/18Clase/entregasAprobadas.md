@@ -7,7 +7,7 @@
 
 - Paula Carolina Serrano -> Aprobada ⭐
 - Quimey Fernandez Yaryura -> Aprobada ⭐
-- Viviana Beatriz Aguilera Valenzuela -> 
+- Viviana Beatriz Aguilera Valenzuela -> Aprobada ⭐
 - Delfina Schlossberg -> 🔴 Baja Curso
 
 - Jorgelina Belen Sigal -> Aprobada ⭐
@@ -19,7 +19,7 @@
 
 - Natalia Cisnero -> 
 - Estefania vago -> 
-- Daniela Escobar ->  
+- Daniela Escobar -> Aprobada ⭐
 - Yanina Lujan Velazquez-> 
 
 - Andrea Ayelén Diaz -> Aprobada ⭐
