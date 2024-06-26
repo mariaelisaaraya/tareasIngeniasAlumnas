@@ -17,22 +17,22 @@
 - Rocio Ibañez -> Aprobada ⭐
 - Amaranta Villegas -> Aprobada ⭐
 
-- Natalia Cisnero -> 
+- **Natalia Cisnero** -> 
 - Estefania vago -> Aprobada ⭐
 - Daniela Escobar -> Aprobada ⭐
-- Yanina Lujan Velazquez-> 
+- **Yanina Lujan Velazquez**-> 
 
 - Andrea Ayelén Diaz -> Aprobada ⭐
 - Daniela Soto -> 
 - Ana Santos -> Aprobada ⭐
 - Magalí Giles ->  
 
-- Macarena Ailen Ferro -> 
+- **Macarena Ailen Ferro** -> 
 - Yaidny junixza Briceño cortes ->
 - Daniela Correa
 - Yanina Ferreira ->  
 
-- Gabriela Espinach Ros -> 
+- **Gabriela Espinach Ros** -> 
 - Brenda Diaz
 - Amparo Blanco de la Vega
 
