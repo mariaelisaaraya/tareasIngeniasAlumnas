@@ -18,7 +18,7 @@
 - Amaranta Villegas -> Aprobada ⭐
 
 - Natalia Cisnero -> 
-- Estefania vago -> 
+- Estefania vago -> Aprobada ⭐
 - Daniela Escobar -> Aprobada ⭐
 - Yanina Lujan Velazquez-> 
 
