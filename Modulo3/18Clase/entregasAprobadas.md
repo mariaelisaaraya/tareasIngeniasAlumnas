@@ -1,17 +1,16 @@
 **Listado de Alumnas**:
 
-- Melisa Encinas -> 
+- Melisa Encinas -> 🔴 Baja Curso
 - Camila Catalini -> Aprobada ⭐ 
 - karla chavez -> 
 - Mariana Pasten -> Aprobada ⭐ 
 
 - Paula Carolina Serrano -> Aprobada ⭐
-- Carla Karina Fernández Osa
+- Quimey Fernandez Yaryura -> Aprobada ⭐
 - Viviana Beatriz Aguilera Valenzuela -> 
-- Delfina Schlossberg 
+- Delfina Schlossberg -> 🔴 Baja Curso
 
 - Jorgelina Belen Sigal -> Aprobada ⭐
-
 
 - Silvina Figueroa -> Aprobada ⭐
 - Daniela Ramírez -> Aprobada ⭐
@@ -32,14 +31,11 @@
 - Yaidny junixza Briceño cortes ->
 - Daniela Correa
 - Yanina Ferreira ->  
-- Celina Lopez
 
-- Tatiana  Garay
 - Gabriela Espinach Ros -> 
 - Brenda Diaz
 - Amparo Blanco de la Vega
 
 - Nuria Robledo
 - Milagros Soberon
-- Quimey Fernandez Yaryura -> Aprobada ⭐
 - Sofía Vila
