@@ -23,7 +23,7 @@
 - **Yanina Lujan Velazquez**-> 
 
 - Andrea Ayelén Diaz -> Aprobada ⭐
-- Daniela Soto -> 
+- Daniela Soto -> Aprobada ⭐
 - Ana Santos -> Aprobada ⭐
 - Magalí Giles ->  
 
