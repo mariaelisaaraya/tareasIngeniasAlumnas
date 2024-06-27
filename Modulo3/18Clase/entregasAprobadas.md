@@ -32,7 +32,7 @@
 - Daniela Correa
 - Yanina Ferreira ->  
 
-- **Gabriela Espinach Ros** -> 
+- Gabriela Espinach Ros -> Aprobada ⭐
 - Brenda Diaz
 - Amparo Blanco de la Vega
 
