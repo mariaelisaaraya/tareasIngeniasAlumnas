@@ -10,11 +10,12 @@
 
 #### Módulo 2 - Base de Datos No Relacionales, Seguridad y Crud 
 * Guía de actividades prácticas: Módulo 2
-  - Tarea 11 **Obligatoria**
-    - **ULTIMA** Fecha de Entrega: Lunes 03/06/2024 17pm
+  - Son aceptadas hasta **23/06/2024** inclusive
 
 #### Módulo 3 - SQL, Documentación y Testing- 
 * Guía de actividades prácticas: Módulo 3
+  - Tarea N18 **Obligatoria**
+    - Fecha de Entrega: 26/06/2024 Miércoles 17hs.
 
 ---
 
