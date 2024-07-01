@@ -2,7 +2,7 @@
 
 - Melisa Encinas -> 🔴 Baja Curso
 - Camila Catalini -> Aprobada ⭐ 
-- **karla chavez** -> 
+- karla chavez -> Aprobada ⭐
 - Mariana Pasten -> Aprobada ⭐ 
 
 - Paula Carolina Serrano -> Aprobada ⭐
