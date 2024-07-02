@@ -20,7 +20,7 @@
 - Andrea Ayelén Diaz -> Aprobada ⭐
 - Daniela Soto -> Aprobada ⭐
 - Ana Santos -> Aprobada ⭐
-- **Magalí Giles** ->  
+- Magalí Giles ->  Aprobada ⭐
 - **Macarena Ailen Ferro** -> 
 - Gabriela Espinach Ros -> Aprobada ⭐
 
