@@ -16,6 +16,7 @@
 * Guía de actividades prácticas: Módulo 3
   - Tarea N18 **Obligatoria**
     - Fecha de Entrega: 26/06/2024 Miércoles 17hs.
+    - **Mini Parcial** 08/07/2024 17 40 por medio del Campus -> Temas vistos del mod3
 
 ---
 
