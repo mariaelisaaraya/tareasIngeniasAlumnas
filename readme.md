@@ -18,7 +18,7 @@
 * Guía de actividades prácticas: Módulo 3
   - Tarea N18 **Obligatoria**
     - Fecha de Entrega: 26/06/2024 Miércoles 17hs.
-    - 🔥 **Mini Parcial** 08/07 - Suspendidos por fuerza mayor🔥
+  - 🔥 **Final Jump** Clase 32 a la [Final](https://github.com/mariaelisaaraya/FinalJump-Entrega3)🔥
 
 ---
 
