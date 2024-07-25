@@ -1,3 +1,3 @@
 ## Prácticas
 
-### Se encuentra en la PPT 27
+### Por favor subir errores si tienen de conexión
