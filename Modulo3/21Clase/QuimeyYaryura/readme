@@ -1,0 +1,46 @@
+1. Ejecuta una consulta de selección sobre todos los campos de la tabla Products
+// ordena la consulta por el campo productName
+
+SELECT * FROM northwind.products 
+ORDER BY ProductName;
+
+
+2. Ejecuta una consulta de selección similar a la primera, aplicando la siguiente condición
+// el campo CategoryID sea igual a 4 y 6
+//mantén el ordenamiento indicado anteriormente
+
+SELECT * FROM northwind.products WHERE CategoryID IN (4,6) 
+ORDER BY ProductName;
+
+3. Ejecuta otra consulta de selección similar a la primera, aplicando la siguiente condición
+//el campo SupplierID sea igual a 5 y el campo CategoryID sea igual a 4
+
+
+SELECT * FROM northwind.products 
+WHERE SupplierID = 5 AND CategoryID = 4;
+
+
+4. Ejecuta otra consulta de selección similar a la primera, aplicando la siguiente condición
+// el campo UnitsInStock tenga valores entre 25 y 40 unidades
+
+SELECT * FROM northwind.products 
+WHERE UnitsInStock BETWEEN 25 AND 40;
+
+
+5. Abre la tabla Products y modifica manualmente el campo discontinued = 1, en al menos 5
+registros al azar. Recuerda aplicar / guardar los cambios efectuados
+
+SELECT * FROM products;
+
+UPDATE `northwind`.`products` SET `Discontinued` = '1' WHERE (`ProductID` = '42');
+UPDATE `northwind`.`products` SET `Discontinued` = '1' WHERE (`ProductID` = '54');
+UPDATE `northwind`.`products` SET `Discontinued` = '1' WHERE (`ProductID` = '66');
+UPDATE `northwind`.`products` SET `Discontinued` = '1' WHERE (`ProductID` = '71');
+UPDATE `northwind`.`products` SET `Discontinued` = '1' WHERE (`ProductID` = '40');
+
+6. Ejecuta una consulta de selección similar a la primera, aplicando la siguiente condición
+// el campo UnitsInStock sea mayor a 400 o el campo discontinued sea verdadero
+//ordena la consulta por el campo productName
+
+SELECT * FROM products WHERE UnitsInStock >400 OR Discontinued=True
+ORDER BY ProductName;
