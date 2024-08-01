@@ -15,9 +15,8 @@
   - 🙌[Tp02 Obligatorio](https://github.com/mariaelisaaraya/tp2ObligatorioIngenias) 🙌
 
 #### Módulo 3 - SQL, Documentación y Testing- 
-* Guía de actividades prácticas: Módulo 3
-  - Tarea N18 **Obligatoria**
-    - Fecha de Entrega: 26/06/2024 Miércoles 17hs.
+* Guía de actividades prácticas: Módulo 3.
+  - Son aceptadas hasta **04/08/2024** inclusive
   - 🔥 **Final Jump** Clase 32 a la [Final](https://github.com/mariaelisaaraya/FinalJump-Entrega3)🔥
 
 ---
